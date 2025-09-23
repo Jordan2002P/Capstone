@@ -1,4 +1,4 @@
-# Capstone - OvalleStock
+# Capstone - OvalleStock - Grupo 4
 
 # Descripción del proyecto 
 Plataforma web responsiva para optimizar la gestión de inventarios de frutas y verduras en el sector de Lo Valledor. El proyecto busca digitalizar los procesos manuales, reduciendo errores y mejorando el control de stock para pequeños y medianos comerciantes. 
